@@ -18,7 +18,7 @@ On Friday 7th of October we've had a group meeting with Sharon, me and other peo
 * **Week 4**
 Group meeting with the other project owners that have project under Sharon. Discussions about everyone's project and how are the projects connected to each other. Week 4 and Week 5 plan is to determine a model for the project, e.g. how to connect both the watch and the twitter with a mediator and how to store data in a secure manner. Initial idea is to create a mobile application that connects the two sides and stores the information securely. 
 * **Week 5**
-Still trying to figure out the issues from week 4. 
+Still trying to figure out the issues from week 4. Try to connect the TicWatch Pro3 to the computer by the end of the week. Determine the project scope and finish the project proposal template in Notion. 
 * **Week 6**
 * **Week 7**
 * **Week 8**
