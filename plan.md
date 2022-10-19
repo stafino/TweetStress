@@ -16,7 +16,9 @@ Selected the project and met with the supervisor on the 30th of September in Sir
 * **Week 3**
 On Friday 7th of October we've had a group meeting with Sharon, me and other people working on the projects under Sharon, which work also with stress related issues. In the meeting there was also a colleague of Sharon present - Sicheng Yin, who gave us a demo how to connect the TicWatch Pro3 to the computer and get relevant sensory data. 
 * **Week 4**
+Group meeting with the other project owners that have project under Sharon. Discussions about everyone's project and how are the projects connected to each other. Week 4 and Week 5 plan is to determine a model for the project, e.g. how to connect both the watch and the twitter with a mediator and how to store data in a secure manner. Initial idea is to create a mobile application that connects the two sides and stores the information securely. 
 * **Week 5**
+Still trying to figure out the issues from week 4. 
 * **Week 6**
 * **Week 7**
 * **Week 8**
