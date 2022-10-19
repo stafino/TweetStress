@@ -63,3 +63,4 @@
 * *1 hour* organising the project repository & updating timelog.md and plan.md
 * *1 hour* writing the project's timelog.md for the past month and trying to figure out what was happening when
 * *0.5 hour* transferring all the documents that were written in Notion to .md files in the project repository
+* *2 hours* writing the project proposal
