@@ -9,8 +9,16 @@
 
 * This file contains the minutes for my project. 
 
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+
+
 ## Week 1
 --------------------------------------------------------------------------------------
+
+
 
 ## Week 2
 
@@ -22,6 +30,7 @@
 * I still need to finalise project proposal in order to have scope of the project defined well.
 
 
+
 ## Week 3
 
 ### 7 Oct 2022
@@ -31,6 +40,7 @@
 * We also received slides and github code for the connection
 * Sharon also created a presentation to show us how the HRV works 
 * Additionally, we discussed other variables connected with stress from the human body and how to measure them.
+
 
 
 ## Week 4
