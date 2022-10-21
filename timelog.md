@@ -64,3 +64,8 @@
 * *1 hour* writing the project's timelog.md for the past month and trying to figure out what was happening when
 * *0.5 hour* transferring all the documents that were written in Notion to .md files in the project repository
 * *2 hours* writing the project proposal
+
+## 21 Oct 2022
+* *1 hour* meeting with the other people on the project, discussion about everyone's progress and plan for the upcoming week
+* *1 hour* updating the projcet proposal and cleaning the repository
+

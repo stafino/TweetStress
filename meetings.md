@@ -50,4 +50,13 @@
 * I have to be careful if doing studies with sample sizes that you got all the consents that you have, even if the data is used anonymously 
 * I need to find applications to see my own stress - e.g. ticsen, google fit 
 * Need to brainstorm how to store data, communicate everything between WATCH - MY PROJECT - TWITTER. Data, such as login details for twitter. Maybe it is possible not saving it on my end but using the third party software to open a twitter login on a pop-up window, which would result in me not having to worry about the login details security.
-* 
+
+
+
+## Week 5
+
+### 21 Oct 2022
+* Plan for next week is to connect Watch with developer mode to the computer --> using Android Studio
+* Project proposal was very well done, still need to duplicate it and edit it accordingly (duplicate in order to not lose the original version, might be useful when writing the dissertation)
+* Maybe if enough time, try to draft system architecture and other designs for app, connections, etc. If not enough time, this just gets postponed to the later weeks 
+* Current stress application on TicWatch is not designed well, Bers will work on making a better designed one
