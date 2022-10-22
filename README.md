@@ -16,6 +16,7 @@ Here's an overview of the structure as it stands:
 * `meetings/` Records of the meetings you have during the project.
 * `dissertation/` source and for your project dissertation
 * `presentation/` your presentation
+* `project proposal/` project proposal with all the edits across the timeline in a separate .md file
 
 * Make sure you add a `.gitignore` or similar for your VCS for the tools you are using!
 * Add any appropriate continuous integration (e.g. Travis CI) in this directory.
