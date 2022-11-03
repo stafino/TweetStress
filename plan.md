@@ -25,12 +25,17 @@ Group meeting with the other project owners that have project under Sharon. Disc
 * **Week 5**
 Still trying to figure out the issues from week 4. Try to connect the TicWatch Pro3 to the computer by the end of the week. Determine the project scope and finish the project proposal template in Notion. Organise the project structure within the repository, transfer all the minutes from Notion to the repository.
 * **Week 6**
-
+Connect TicWatch with computer.
 * **Week 7**
+Research into relevant stress data that can be read from Watch. Additionally, create an architecture and a system design of the project.
 * **Week 8**
+Retrieve the relevant data from watch and display in a meaningful and organised way.
 * **Week 9**
+Mediate connection between Watch and Twitter. Test GET/POST requests onto twitter with the Watch Data.
 * **Week 10**
+ Create a Detection Algorithm for the data retrieval, when it flags, what does it do with the data, etc.
 * **Week 11 [PROJECT WEEK]**
+ Create a Detection Algorithm for the data retrieval, when it flags, what does it do with the data, etc.
 * **Week 12 [PROJECT WEEK]** Status report submitted.
 
 ## Winter break
