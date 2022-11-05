@@ -7,15 +7,15 @@
 
 Week-by-week plan for the whole project. Update this as you go along.
 
---------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 
 
 ## Winter semester
 
 * **Week 1**
-----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
 * **Week 2**
 Selected the project and met with the supervisor on the 30th of September in Sir Arthur Williams Building. Initial meeting included the project description from both parties (what we're both expecting from it), receiving TicWatch Pro3. Me and Sharon decided that I will create a project proposal with the ILOs and find a middle ground on the project since we've both had different expectations for the project. 
 * **Week 3**
@@ -25,11 +25,11 @@ Group meeting with the other project owners that have project under Sharon. Disc
 * **Week 5**
 Still trying to figure out the issues from week 4. Try to connect the TicWatch Pro3 to the computer by the end of the week. Determine the project scope and finish the project proposal template in Notion. Organise the project structure within the repository, transfer all the minutes from Notion to the repository.
 * **Week 6**
-Connect TicWatch with computer.
+--------------------------------------------------------------------------------------------------------------------
 * **Week 7**
 Research into relevant stress data that can be read from Watch. Additionally, create an architecture and a system design of the project.
 * **Week 8**
-Retrieve the relevant data from watch and display in a meaningful and organised way.
+Connect the Ticwatch Pro3 with the computer and use HRV Tracking repository on GitHub to filter out relevant, processed data. This leads to having relevant data from watch and display in a meaningful and organised way. Craft a system architecture for the product. 
 * **Week 9**
 Mediate connection between Watch and Twitter. Test GET/POST requests onto twitter with the Watch Data.
 * **Week 10**
