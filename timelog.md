@@ -80,3 +80,6 @@
 ## 3 Nov 2022
 * *3 hours* research on Research methods, how to conduct Internal/External & Qualitative/Quantitative research, how to open and lead the customer research meeting in order to obtain the best possible information from the customer
 * *1 hour* connecting the TicWatch
+
+## 4 Nov 2022
+* *2 hours* meeting in Arc with team 
