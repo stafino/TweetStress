@@ -60,3 +60,26 @@
 * Project proposal was very well done, still need to duplicate it and edit it accordingly (duplicate in order to not lose the original version, might be useful when writing the dissertation)
 * Maybe if enough time, try to draft system architecture and other designs for app, connections, etc. If not enough time, this just gets postponed to the later weeks 
 * Current stress application on TicWatch is not designed well, Bers will work on making a better designed one
+
+
+
+## Week 6
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+# Week 7
+
+### 4 Nov 2022 
+* If booking a meeting room, e.g. for a research, potential customer meeting or a survey, make sure to do that a long time in advance. Most of the time the rooms are unavailable. If can't find the room, ask Sharon, she can provide her office or book a staff-only meeting room. 
+* People experience stress in a foreign evnironment, which results in not expressing emotions 
+* For some people leading a healthy lifestyle, cooking and exercising daily can be a cause for more stress rather than stress relieval, which it was supposed to be
+* Some people presssure themselves, e.g. by having to get good results in every aspect of their life. Not always that comes from outside factors, such as parents, family and peers. 
+* Sometimes, stress is not caused by the things that people HAVE TO DO (work, studying, university, etc.), however get stress by stuff they do not have to do but want to (extra curricular activities, friends, etc.).
+* Majority of people struggle with time management, which leads to more stress
+* Extensions on deadlines do not help most people (not only the ADHD ones), they end up finishing the assignments last second regardless. 
+* HRV Github repository can be used to process the data in python. It should provide you with a .csv file containing filtered data, such as high frequency, low frequency, and other subparts of HRV. 
+* High frequency HRV = high stress
