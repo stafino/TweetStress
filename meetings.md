@@ -83,3 +83,16 @@
 * Extensions on deadlines do not help most people (not only the ADHD ones), they end up finishing the assignments last second regardless. 
 * HRV Github repository can be used to process the data in python. It should provide you with a .csv file containing filtered data, such as high frequency, low frequency, and other subparts of HRV. 
 * High frequency HRV = high stress
+
+
+
+## Week 8
+
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+## Week 9
+
