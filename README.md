@@ -1,3 +1,8 @@
+# StressTweet
+* Bachelor Thesis on Stress as a Social Cue on Social Media
+* University of Glasgow
+* Made by Oliver Alan Stafurik
+
 # Guidance
 This is a suggested template for a project. You can modify it as you please, but
 but remember to keep:
