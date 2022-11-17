@@ -83,3 +83,17 @@
 
 ## 4 Nov 2022
 * *2 hours* meeting in Arc with team 
+
+
+
+## Week 8
+
+## 11 Nov 2022
+* *2hours* Product Management Life Cycle research
+
+
+
+## Week 9
+
+## 19 Nov 2022
+* 
