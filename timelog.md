@@ -89,11 +89,23 @@
 ## Week 8
 
 ## 11 Nov 2022
-* *2hours* Product Management Life Cycle research
+* *2 hours* Product Management Life Cycle research
 
 
 
 ## Week 9
 
 ## 19 Nov 2022
-* 
+* *2 hours* Research into relevant papers 
+
+
+
+## Week 10 
+
+## 21 Nov 2022 
+* *4 hours* designing sample mobile application and coding it using flutter
+* *2 hours* debugging dependencies in Xcode and Flutter
+
+## 25 Nov 2022
+* *3 hours* scoping the plan for the dissertation
+
