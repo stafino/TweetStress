@@ -96,3 +96,8 @@
 
 ## Week 9
 
+### 29 Nov 2022
+* Difference between research paper and dissertation: Dissertation is much easier to write and should be written first. For dissertation no original results need to be crafted, paper requires relevant results conducted by me that weren't conducted before
+* Dissertation's abstract & conclusion needs to be written last
+* Dissertation structure: Abstract, Introduction, Related Work, Codesign Workshop, Technical Infrastructure, Prototype Design, Feedback on Prototype, Technical Development, Results, Limitations?, Future Possibilities, Conclusion
+* 

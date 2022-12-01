@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:twitter_api_v2/twitter_api_v2.dart' as v2;
+import 'dart:async';
+import 'dart:io';
 
 void main() {
   runApp(const MyApp());
@@ -106,10 +109,38 @@ class _MyHomePageState extends State<MyHomePage> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
+        onPressed: _tweetNumber,
         tooltip: 'Increment',
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
+    );
+  }
+
+  final twitter = v2.TwitterApi(
+    //! Authentication with OAuth2.0 is the default.
+    //!
+    //! Note that to use endpoints that require certain user permissions,
+    //! such as Tweets and Likes, you need a token issued by OAuth2.0 PKCE.
+    //!
+    //! The easiest way to achieve authentication with OAuth 2.0 PKCE is
+    //! to use [twitter_oauth2_pkce](https://pub.dev/packages/twitter_oauth2_pkce)!
+    bearerToken:
+        'AAAAAAAAAAAAAAAAAAAAAGnrjgEAAAAAadqbuzF8W881CpT7KR3A2a1EHqY%3DrxFjaU0yZ9cbKRiLaPl59AM4RlgmHS6VpsYj6A4sBzB3dlPiZw',
+
+    retryConfig: v2.RetryConfig.ofExponentialBackOffAndJitter(
+      maxAttempts: 5,
+      onExecute: (event) => print(
+        'Retry after ${event.intervalInSeconds} seconds... '
+        '[${event.retryCount} times]',
+      ),
+    ),
+
+    timeout: Duration(seconds: 20),
+  );
+
+  Future<void> _tweetNumber() async {
+    await twitter.tweets.createTweet(
+      text: 'Tweet with uploaded media',
     );
   }
 }
