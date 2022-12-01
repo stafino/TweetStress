@@ -103,3 +103,9 @@
 * Still no clue how to go around API keys for Twitter for other users
 * Need to read paper's Sharon sent on Teams - Video Conferencing Mockup
 * In the Codesign Workshop: create design for the application, find what stresses people out, find out how to protect privacy of participants, find out how to design stress data dashboard, etc.
+
+
+
+## Week 10
+
+### 9 Dec 2022
