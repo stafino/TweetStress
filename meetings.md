@@ -100,4 +100,6 @@
 * Difference between research paper and dissertation: Dissertation is much easier to write and should be written first. For dissertation no original results need to be crafted, paper requires relevant results conducted by me that weren't conducted before
 * Dissertation's abstract & conclusion needs to be written last
 * Dissertation structure: Abstract, Introduction, Related Work, Codesign Workshop, Technical Infrastructure, Prototype Design, Feedback on Prototype, Technical Development, Results, Limitations?, Future Possibilities, Conclusion
-* 
+* Still no clue how to go around API keys for Twitter for other users
+* Need to read paper's Sharon sent on Teams - Video Conferencing Mockup
+* In the Codesign Workshop: create design for the application, find what stresses people out, find out how to protect privacy of participants, find out how to design stress data dashboard, etc.
