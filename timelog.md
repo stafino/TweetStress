@@ -17,6 +17,9 @@
 --------------------------------------------------------------------------------------------------------------------
 
 
+# First Semester
+
+
 ## Week 1
 
 ### 21 Sep 2022 
@@ -141,10 +144,67 @@
 
 
 ## Pre-Christmas Period
-* *30 hours* Finalising first half of work 
+* *30 hours* Finalising first half of workload
 * *15 hours* Writing and submission of status report 
 * *5 hours* few code design ideas
 * *15 hours* learning how to do research properly for dissertation (took a course on linkedin learning)
+* *5 hours* meetings with teammates discussing individual projects 
+
+
+
+# Second Semester
+
+
+## Week 1
+
+## 9 Jan 2023
+
+
+## Week 2
+
+## 16 Jan 2023
+
+
+
+## Week 3
+
+## 23 Jan 2023
+
+
+
+## Week 4
+
+## 30 Jan 2023
+
+
+
+## Week 5
+
+## 6 Feb 2023
+
+
+
+## Week 6
+
+## 13 Feb 2023
+
+
+
+## Week 7
+
+## 20 Feb 2023
+
+
+
+## Week 8
+
+## 27 Feb 2023
+
+
+
+## Week 9
+
+## 6 Mar 2023
 
 
 
