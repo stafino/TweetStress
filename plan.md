@@ -1,6 +1,6 @@
 # Plan
 
-* PROJECT TITLE - STRESS AS SOCIAL CUES ON SOCIAL median
+* PROJECT TITLE - STRESS AS SOCIAL CUES ON SOCIAL MEDIA
 * YOUR NAME - OLIVER ALAN STAFURIK  
 * STUDENT ID - 2444536S
 * SUPERVISOR NAME - XIANGHUA DING 
@@ -43,14 +43,24 @@ Mediate connection between Watch and Twitter. Test GET/POST requests onto twitte
 ## Spring Semester
 
 * **Week 13**
+Conduct background research on stress management and social media. Develop a software development plan and timeline. Brainstorm design ideas for the mobile application.
 * **Week 14**
+Develop wireframes and prototypes for the mobile application. Begin coding the application in Flutter. Set up a Firebase account and start storing data.
 * **Week 15**
+Make sure all dependencies are up to date. Continue coding the application and integrate it with Firebase. Begin designing the user interface and user experience. Research the Twitter API and begin connecting the application to it.
 * **Week 16**
+Continue developing the mobile application and Twitter integration. Conduct a preliminary test of the application and make any necessary changes. Prepare for the first user study group.
 * **Week 17**
+Conduct the first user study group focusing on the best representation of stress levels on Twitter. Analyze the data collected from the user study group and make any necessary changes to the application.
 * **Week 19**
+Develop a second user study group focusing on ethical procedures and user emotions. Conduct the second user study group and collect data. Analyze the data and prepare for dissertation writing.
 * **Week 20**
+Begin writing the dissertation and organizing the data. Check the dissertation for accuracy, clarity, and completeness. Identify any potential gaps in the research and address them.
 * **Week 21**
+Write the dissertation. Finalise project documentation and make sure everything is clear and understandable, e.g. how to run the project from GitHub, finalise notes from meetings, etc. Make sure everything is up to date with the highest standards. 
 * **Week 22**
+Transfer the dissertation to LaTeX and format it according to the required guidelines. Review the dissertation with the dissertation committee and address any concerns or questions. Prepare for the dissertation presentation.
 * **Week 23 [TERM ENDS]**
+Rehearse the dissertation presentation and prepare any necessary materials. Finalize the dissertation and make any last-minute changes. Submit the dissertation before the deadline.
 * **Week 24** Dissertation submission deadline and presentations.
-
+Reflect on the whole process. Submit any final paperwork and complete any remaining requirements.
