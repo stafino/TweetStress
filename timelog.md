@@ -95,8 +95,15 @@
 
 ## Week 9
 
+## 17 Nov 2022
+* *4.5 hours* Research into relevant papers
+
 ## 19 Nov 2022
-* *2 hours* Research into relevant papers 
+* *4 hours* Research into relevant papers 
+
+## 20 Nov 2022
+* *3 hours* Research into relevant papers
+
 
 
 
@@ -108,4 +115,36 @@
 
 ## 25 Nov 2022
 * *3 hours* scoping the plan for the dissertation
+
+
+
+## Week 11 
+
+## 2 December
+* *1 hour* meeting with Sharon
+
+## 4 Dec 2022 
+* *2 hours* Designing system architecture
+* *2 hours* Documentation + Github organisation
+
+
+
+
+## Week 12 
+
+## 9 Dec 2022
+* *5 hours* Dependencies big fiasco fix *still not fixed*
+* *1 hour* meeting with Sharon
+
+## 11 Dec 2022 
+* *2.5 hours* finishing the dependency problem with XCode + MacOS Homebrew, all fixed
+
+
+## Pre-Christmas Period
+* *30 hours* Finalising first half of work 
+* *15 hours* Writing and submission of status report 
+* *5 hours* few code design ideas
+* *15 hours* learning how to do research properly for dissertation (took a course on linkedin learning)
+
+
 
