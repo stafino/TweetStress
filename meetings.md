@@ -97,13 +97,7 @@
 ## Week 9
 
 ### 29 Nov 2022
-* Difference between research paper and dissertation: Dissertation is much easier to write and should be written first. For dissertation no original results need to be crafted, paper requires relevant results conducted by me that weren't conducted before
-* Dissertation's abstract & conclusion needs to be written last
-* Dissertation structure: Abstract, Introduction, Related Work, Codesign Workshop, Technical Infrastructure, Prototype Design, Feedback on Prototype, Technical Development, Results, Limitations?, Future Possibilities, Conclusion
-* Still no clue how to go around API keys for Twitter for other users
-* Need to read paper's Sharon sent on Teams - Video Conferencing Mockup
-* In the Codesign Workshop: create design for the application, find what stresses people out, find out how to protect privacy of participants, find out how to design stress data dashboard, etc.
-
+* During my meeting with my dissertation supervisor, we discussed the differences between a research paper and a dissertation. It was noted that a dissertation is easier to write and should be written first. The dissertation does not require original results crafted by the writer, whereas the paper requires relevant results conducted by the writer that have not been conducted before. We discussed the dissertation's abstract and conclusion, which should be written last. The structure of the dissertation was also discussed, which includes an abstract, introduction, related work, codesign workshop, technical infrastructure, prototype design, feedback on prototype, technical development, results, limitations, future possibilities, and conclusion. We talked about the challenge of working around API keys for Twitter for other users and Sharon's paper on video conferencing mockup. In the Codesign Workshop, we plan to create a design for the application, identify what stresses people out, find out how to protect privacy of participants, and design a stress data dashboard, among other things.
 
 
 ## Week 10
@@ -111,3 +105,70 @@
 ### 9 Dec 2022
 
 
+
+# Second Semester
+
+
+## Week 1
+
+## 9 Jan 2023
+
+
+## Week 2
+
+## 16 Jan 2023
+
+
+
+## Week 3
+
+## 23 Jan 2023
+
+
+
+## Week 4
+
+## 30 Jan 2023
+
+
+
+## Week 5
+
+## 6 Feb 2023
+
+
+
+## Week 6
+
+## 13 Feb 2023
+
+
+
+## Week 7
+
+## 20 Feb 2023
+
+
+
+## Week 8
+
+## 27 Feb 2023
+
+
+
+## Week 9
+
+## 6 Mar 2023
+* In the meeting with my dissertation supervisor, we discussed several important aspects related to stress sharing. We agreed to conduct interviews with friends to gather their perspectives on sharing stress levels and incorporate ambiguity in the study. We also plan to determine if friends noticed any stress-related posts and explore reactions to humorous gifs. To simulate automatic stress technology, we will observe expressions of care from others and investigate personal privacy concerns. We decided to emphasize automatic stress level detection and utilize emojis to enhance the survey. Additionally, we will observe reactions to stress levels of someone who experiences stress often and consider ethical considerations when asking about feelings. We will determine the appropriate frequency of data sharing and explore the motivation behind stress sharing. Finally, we plan to review the literature on stress sharing to further refine our study design.
+
+
+## Week 10
+
+## No meeting
+
+
+## Week 11
+
+## 17 Mar 2023
+
+* During the meeting, we discussed several important points related to the stress sharing survey. First, we need to find a way to cite a podcast on Google. We decided to rename the survey to "Perceptions of Stress Sharing" and revise the data answers. We also agreed to move the data collection to a later time to capture more accurate responses. Additionally, we plan to include screenshots to clarify any questions and add open-ended questions for each Twitter prompt. We will assess how easy it is to interpret the data and test the survey questions with someone to ensure that they understand everything. We will also ask participants if they would be willing to use stress sharing technology if it were available and inquire about their personal experiences with stress sharing. Finally, we need to ensure that the survey message is clear and coherent and ask participants if they feel like they want to express care towards others. We will also inquire about privacy concerns and clarify which questions are directed towards the researcher and which ones are directed towards the user.
