@@ -1,33 +1,31 @@
-# StressTweet
-* Bachelor Thesis on Stress as a Social Cue on Social Media
-* University of Glasgow
-* Made by Oliver Alan Stafurik
+# tweet-stress
 
-# Guidance
-This is a suggested template for a project. You can modify it as you please, but
-but remember to keep:
+A new Flutter project.
 
-* a timelog, updated regularly in the `timelog.md` format;
-* all source under version control;
-* data well organised and with appropriate ethical approval (for human subject data);
+## Getting Started
 
-Here's an overview of the structure as it stands:
+FlutterFlow projects are built to run on the Flutter _stable_ release.
 
-* `timelog.md` The time log for your project.
-* `plan.md` A skeleton week-by-week plan for the project. 
-* `data/` data you acquire during the project
-* `src/` source code for your project
-* `status_report/` the status report submitted in December
-* `meetings/` Records of the meetings you have during the project.
-* `dissertation/` source and for your project dissertation
-* `presentation/` your presentation
-* `project proposal/` project proposal with all the edits across the timeline in a separate .md file
+### IMPORTANT:
 
-* Make sure you add a `.gitignore` or similar for your VCS for the tools you are using!
-* Add any appropriate continuous integration (e.g. Travis CI) in this directory.
+For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
 
-* Remove this `readme.md` file from any repository and replace it with something more appropriate!
+```
+flutter pub get
+flutter packages pub run build_runner build --delete-conflicting-outputs
+```
 
-## Important
-* It should be easy to rebuild and run your project and your dissertation
-* Include clear instructions in the relevant directories to make this possible
+This command creates the generated files that parse each Record from Firestore into a schema object.
+
+### Getting started continued:
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
