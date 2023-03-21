@@ -1,4 +1,5 @@
-import 'dart:io';
+// ignore_for_file: deprecated_member_use
+
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:flutter/material.dart';
@@ -8,6 +9,7 @@ import 'package:json_path/json_path.dart';
 import 'package:timeago/timeago.dart' as timeago;
 import 'package:url_launcher/url_launcher.dart';
 import '../main.dart';
+import 'dart:io';
 
 export 'lat_lng.dart';
 export 'place.dart';

@@ -1,10 +1,12 @@
+import 'package:flutter/material.dart';
+
 import '/auth/auth_util.dart';
 import '/flutter_flow/flutter_flow_theme.dart';
 import '/flutter_flow/flutter_flow_util.dart';
 import '/flutter_flow/flutter_flow_widgets.dart';
-import 'package:flutter/material.dart';
 import 'signup_page_model.dart';
 export 'signup_page_model.dart';
+import 'package:flutter/services.dart';
 
 class SignupPageWidget extends StatefulWidget {
   const SignupPageWidget({Key? key}) : super(key: key);
