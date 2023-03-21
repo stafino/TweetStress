@@ -5,7 +5,7 @@ import '/flutter_flow/flutter_flow_widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'stress_levels_model.dart';
-import 'package:twitter_api_v2/twitter_api_v2.dart';
+import 'package:twitter_api_v2/twitter_api_v2.dart' as v2;
 
 export 'stress_levels_model.dart';
 
@@ -15,6 +15,29 @@ class StressLevelsWidget extends StatefulWidget {
   @override
   _StressLevelsWidgetState createState() => _StressLevelsWidgetState();
 }
+
+final twitter = v2.TwitterApi(
+    //! Authentication with OAuth2.0 is the default.
+    //!
+    //! Note that to use endpoints that require certain user permissions,
+    //! such as Tweets and Likes, you need a token issued by OAuth2.0 PKCE.
+    //!
+    //! The easiest way to achieve authentication with OAuth 2.0 PKCE is
+    //! to use [twitter_oauth2_pkce](https://pub.dev/packages/twitter_oauth2_pkce)!
+    bearerToken: '',
+
+    //! Or perhaps you would prefer to use the good old OAuth1.0a method
+    //! over the OAuth2.0 PKCE method. Then you can use the following code
+    //! to set the OAuth1.0a tokens.
+    //!
+    //! However, note that some endpoints cannot be used for OAuth 1.0a method
+    //! authentication.
+    oauthTokens: v2.OAuthTokens(
+      consumerKey: '',
+      consumerSecret: '',
+      accessToken: '',
+      accessTokenSecret: '',
+    ));
 
 class _StressLevelsWidgetState extends State<StressLevelsWidget>
     with TickerProviderStateMixin {
@@ -142,6 +165,9 @@ class _StressLevelsWidgetState extends State<StressLevelsWidget>
                         ),
                       },
                     );
+                    // await twitter.createTweet(
+                    //  text: 'Tweet Message',   --> 'Tweet with uploaded media for automatic stress level creation
+                    // );
                   },
                   text: 'Not Stressed At All',
                   options: FFButtonOptions(
@@ -181,6 +207,9 @@ class _StressLevelsWidgetState extends State<StressLevelsWidget>
                         ),
                       },
                     );
+                    // await twitter.createTweet(
+                    //  text: 'Tweet Message',   --> 'Tweet with uploaded media for automatic stress level creation
+                    // );
                   },
                   text: 'A Little Bit Stressed',
                   options: FFButtonOptions(
@@ -220,6 +249,9 @@ class _StressLevelsWidgetState extends State<StressLevelsWidget>
                         ),
                       },
                     );
+                    // await twitter.createTweet(
+                    //  text: 'Tweet Message',   --> 'Tweet with uploaded media for automatic stress level creation
+                    // );
                   },
                   text: 'Medium Stress Levels',
                   options: FFButtonOptions(
@@ -259,6 +291,9 @@ class _StressLevelsWidgetState extends State<StressLevelsWidget>
                         ),
                       },
                     );
+                    // await twitter.createTweet(
+                    //  text: 'Tweet Message',   --> 'Tweet with uploaded media for automatic stress level creation
+                    // );
                   },
                   text: 'Highly stessed',
                   options: FFButtonOptions(
