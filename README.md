@@ -42,6 +42,12 @@ Navigate to the project directory and run the following command to install all t
 2. Download the simulator for the desired iOS version.
 3. Close the preferences window.
 
+### Terminal approach
+
+`npm install -g ios-sim` 	
+
+`ios-sim start --devicetypeid "iPhone-14"` 				
+
 
 ## Run the App
 
