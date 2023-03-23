@@ -9,9 +9,9 @@ These instructions will guide you through the process of setting up the developm
 ### Prerequisites
 Ensure that you have the following tools installed on your system:
 
-[Flutter SDK](https://docs.flutter.dev/get-started/install)
-[Dart SDK](https://dart.dev/get-dart)
-[Android Studio](https://developer.android.com/studio) (for Android development) or [Xcode](https://developer.apple.com/xcode/) (for iOS development)
+1. [Flutter SDK](https://docs.flutter.dev/get-started/install)
+2. [Dart SDK](https://dart.dev/get-dart)
+3. [Android Studio](https://developer.android.com/studio) (for Android development) or [Xcode](https://developer.apple.com/xcode/) (for iOS development)
 
 ## Clone the Repository
 To get a local copy of the repository, run the following command in your terminal:
