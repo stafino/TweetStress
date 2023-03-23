@@ -1,31 +1,78 @@
-# tweet-stress
+# TweetStress
 
-A new Flutter project.
+TweetStress is a cross-platform mobile and web application developed using Flutter that analyzes users' Twitter activity to provide personalized stress management recommendations. It integrates the Twitter API v2, Firebase authentication, and various other powerful tools to create an efficient and user-friendly experience.
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+These instructions will guide you through the process of setting up the development environment, installing all the required packages, and running the app on your local machine.
 
-### IMPORTANT:
+### Prerequisites
+Ensure that you have the following tools installed on your system:
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+[Flutter SDK](https://docs.flutter.dev/get-started/install)
+[Dart SDK](https://dart.dev/get-dart)
+[Android Studio](https://developer.android.com/studio) (for Android development) or [Xcode](https://developer.apple.com/xcode/) (for iOS development)
 
-```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
-```
+## Clone the Repository
+To get a local copy of the repository, run the following command in your terminal:
 
-This command creates the generated files that parse each Record from Firestore into a schema object.
+`git clone https://github.com/stafino/TweetStress.git`
 
-### Getting started continued:
+## Install Dependencies
 
-This project is a starting point for a Flutter application.
+Navigate to the project directory and run the following command to install all the required packages:
 
-A few resources to get you started if this is your first Flutter project:
+`flutter pub get`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Set up Simulators
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Android
+
+1. Open Android Studio and click on Configure in the bottom right corner.
+2. Select AVD Manager.
+3. Click on Create Virtual Device.
+4. Choose a device and click Next.
+5. Select a system image and click Next.
+6. Configure the AVD settings and click Finish.
+
+
+### iOS
+
+1. Open Xcode and navigate to Xcode > Preferences > Components.
+2. Download the simulator for the desired iOS version.
+3. Close the preferences window.
+
+
+## Run the App
+
+### Android
+
+1. Open the terminal and navigate to the project directory.
+2. Run the following command to open the Android emulator:
+
+`flutter emulators --launch <emulator_id>`
+
+3. Run the app on the emulator by executing the following command:
+
+`flutter run`
+
+
+### iOS
+
+1. Open the terminal and navigate to the project directory.
+2. Run the following command to open the iOS simulator:
+
+`open -a Simulator`
+
+3. Run the app on the simulator by executing the following command:
+
+`flutter run`
+
+
+## Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details.
