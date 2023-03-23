@@ -63,4 +63,5 @@ Transfer the dissertation to LaTeX and format it according to the required guide
 * **Week 23 [TERM ENDS]**
 Rehearse the dissertation presentation and prepare any necessary materials. Finalize the dissertation and make any last-minute changes. Submit the dissertation before the deadline.
 * **Week 24** Dissertation submission deadline and presentations.
-Reflect on the whole process. Submit any final paperwork and complete any remaining requirements.
+Reflect on the whole process. Submit any final paperwork and complete any remaining requirements. 
+Organise the github repository.
