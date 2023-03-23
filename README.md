@@ -75,6 +75,26 @@ Navigate to the project directory and run the following command to install all t
 `flutter run`
 
 
+## Twitter API v2
+
+To test the application with the Twitter API v2 POST requests, follow these steps:
+
+### Prerequisites
+ 
+- You need a Twitter Developer account to access the Twitter API. If you don't have one, sign up here: [Twitter Developer](https://developer.twitter.com/en/apply-for-access)
+
+### Setup
+
+1. Navigate to the stress_levels_widget.dart file.
+2. Locate the v2.TwitterApi() class and replace the placeholder tokens with your own Twitter API credentials (Bearer Token, API Key, API Secret Key, Access Token, and Access Token Secret).
+3. Uncomment the lines of code associated with the four buttons in the stress_levels_widget.dart file.
+
+### Running
+
+With the setup complete, you can now run the TweetStress application and utilize the Twitter API v2 POST requests.
+
+
 ## License
 
 This project is licensed under the MIT License.
+
